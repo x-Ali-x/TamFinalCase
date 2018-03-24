@@ -5,7 +5,7 @@ Beste developer,
 Dit is de repo van mijn Front-end case.
 
 
-De site is al pre-built en kan dus na het downloaden gelijk geopend worden via (public -> index.html). 
+De site is al pre-built en kan dus na het downloaden gelijk geopend worden via (public -> index.html & contact.html). 
 
 
 In de desgewenste IDE is hij te starten door middel van ( yarn run start ).
